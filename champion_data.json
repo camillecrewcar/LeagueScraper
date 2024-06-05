@@ -1,0 +1,4938 @@
+[
+    {
+        "name": "Aatrox",
+        "stats": {
+            "Health": 650,
+            "Health_per_level": 114,
+            "Health_Regen": 3,
+            "Health_Regen_per_level": 1,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 5,
+            "Attack_Speed": 0.65,
+            "Attack_Speed_per_level": 2.5,
+            "Armor": 38,
+            "Armor_per_level": 4.45,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "50.47%",
+            "Pick_Rate": "8.63%",
+            "Ban_Rate": "11.01%",
+            "Number_of_Games": "158845",
+            "KDA": "1.88"
+        }
+    },
+    {
+        "name": "Ahri",
+        "stats": {
+            "Health": 590,
+            "Health_per_level": 96,
+            "Health_Regen": 2.5,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 418,
+            "Mana_per_level": 25,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 53,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2,
+            "Armor": 21,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Mage",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "51.28%",
+            "Pick_Rate": "11.47%",
+            "Ban_Rate": "9.93%",
+            "Number_of_Games": "236006",
+            "KDA": "2.67"
+        }
+    },
+    {
+        "name": "Akali",
+        "stats": {
+            "Health": 570,
+            "Health_per_level": 119,
+            "Health_Regen": 9,
+            "Health_Regen_per_level": 0.9,
+            "Mana": 200,
+            "Mana_per_level": 0,
+            "Mana_Regen": 50,
+            "Mana_Regen_per_level": 0,
+            "Attack_Damage": 62,
+            "Attack_Damage_per_level": 3.3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 3.2,
+            "Armor": 23,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 37,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "50.54%",
+            "Pick_Rate": "7.95%",
+            "Ban_Rate": "17.26%",
+            "Number_of_Games": "164445",
+            "KDA": "2.40"
+        }
+    },
+    {
+        "name": "Alistar",
+        "stats": {
+            "Health": 685,
+            "Health_per_level": 120,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.85,
+            "Mana": 350,
+            "Mana_per_level": 40,
+            "Mana_Regen": 8.5,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 62,
+            "Attack_Damage_per_level": 3.75,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.125,
+            "Armor": 47,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "50.84%",
+            "Pick_Rate": "3.98%",
+            "Ban_Rate": "1.63%",
+            "Number_of_Games": "68745",
+            "KDA": "2.59"
+        }
+    },
+    {
+        "name": "Amumu",
+        "stats": {
+            "Health": 685,
+            "Health_per_level": 94,
+            "Health_Regen": 9,
+            "Health_Regen_per_level": 0.85,
+            "Mana": 285,
+            "Mana_per_level": 40,
+            "Mana_Regen": 7.4,
+            "Mana_Regen_per_level": 0.55,
+            "Attack_Damage": 53,
+            "Attack_Damage_per_level": 3.8,
+            "Attack_Speed": 0.74,
+            "Attack_Speed_per_level": 2.18,
+            "Armor": 30,
+            "Armor_per_level": 4,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "53.71%",
+            "Pick_Rate": "3.65%",
+            "Ban_Rate": "1.44%",
+            "Number_of_Games": "88237",
+            "KDA": "2.55"
+        }
+    },
+    {
+        "name": "Anivia",
+        "stats": {
+            "Health": 550,
+            "Health_per_level": 92,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 495,
+            "Mana_per_level": 45,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 51,
+            "Attack_Damage_per_level": 3.2,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.68,
+            "Armor": 21,
+            "Armor_per_level": 4.9,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "51.80%",
+            "Pick_Rate": "1.68%",
+            "Ban_Rate": "1.32%",
+            "Number_of_Games": "31452",
+            "KDA": "2.75"
+        }
+    },
+    {
+        "name": "Annie",
+        "stats": {
+            "Health": 560,
+            "Health_per_level": 102,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 418,
+            "Mana_per_level": 25,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 50,
+            "Attack_Damage_per_level": 2.65,
+            "Attack_Speed": 0.58,
+            "Attack_Speed_per_level": 1.36,
+            "Armor": 19,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "51.76%",
+            "Pick_Rate": "1.76%",
+            "Ban_Rate": "0.63%",
+            "Number_of_Games": "33519",
+            "KDA": "2.25"
+        }
+    },
+    {
+        "name": "Aphelios",
+        "stats": {
+            "Health": 580,
+            "Health_per_level": 102,
+            "Health_Regen": 3.25,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 348,
+            "Mana_per_level": 42,
+            "Mana_Regen": 6.5,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 2.1,
+            "Armor": 26,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "46.23%",
+            "Pick_Rate": "5.89%",
+            "Ban_Rate": "1.26%",
+            "Number_of_Games": "102501",
+            "KDA": "1.94"
+        }
+    },
+    {
+        "name": "Ashe",
+        "stats": {
+            "Health": 640,
+            "Health_per_level": 101,
+            "Health_Regen": 3.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 280,
+            "Mana_per_level": 35,
+            "Mana_Regen": 6.97,
+            "Mana_Regen_per_level": 0.65,
+            "Attack_Damage": 59,
+            "Attack_Damage_per_level": 2.96,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 3.33,
+            "Armor": 26,
+            "Armor_per_level": 4.6,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Marksman",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "52.18%",
+            "Pick_Rate": "13.42%",
+            "Ban_Rate": "8.02%",
+            "Number_of_Games": "270395",
+            "KDA": "2.55"
+        }
+    },
+    {
+        "name": "Aurelion",
+        "stats": {
+            "Health": 620,
+            "Health_per_level": 90,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 530,
+            "Mana_per_level": 40,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.75,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 3.2,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.5,
+            "Armor": 22,
+            "Armor_per_level": 4,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.31%",
+            "Pick_Rate": "4.63%",
+            "Ban_Rate": "4.01%",
+            "Number_of_Games": "95118",
+            "KDA": "2.49"
+        }
+    },
+    {
+        "name": "Azir",
+        "stats": {
+            "Health": 550,
+            "Health_per_level": 119,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 320,
+            "Mana_per_level": 40,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 52,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 6,
+            "Armor": 22,
+            "Armor_per_level": 5,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Mage",
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "46.84%",
+            "Pick_Rate": "2.53%",
+            "Ban_Rate": "0.68%",
+            "Number_of_Games": "48012",
+            "KDA": "2.02"
+        }
+    },
+    {
+        "name": "Bard",
+        "stats": {
+            "Health": 630,
+            "Health_per_level": 103,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 350,
+            "Mana_per_level": 50,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.45,
+            "Attack_Damage": 52,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2,
+            "Armor": 34,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "49.25%",
+            "Pick_Rate": "2.40%",
+            "Ban_Rate": "0.45%",
+            "Number_of_Games": "37378",
+            "KDA": "3.01"
+        }
+    },
+    {
+        "name": "Blitzcrank",
+        "stats": {
+            "Health": 650,
+            "Health_per_level": 109,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 267,
+            "Mana_per_level": 40,
+            "Mana_Regen": 8.5,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 62,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.13,
+            "Armor": 40,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "51.35%",
+            "Pick_Rate": "8.03%",
+            "Ban_Rate": "26.87%",
+            "Number_of_Games": "155321",
+            "KDA": "2.59"
+        }
+    },
+    {
+        "name": "Brand",
+        "stats": {
+            "Health": 570,
+            "Health_per_level": 105,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 469,
+            "Mana_per_level": 21,
+            "Mana_Regen": 10.65,
+            "Mana_Regen_per_level": 0.6,
+            "Attack_Damage": 57,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.68,
+            "Attack_Speed_per_level": 2,
+            "Armor": 27,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "50.79%",
+            "Pick_Rate": "3.87%",
+            "Ban_Rate": "14.91%",
+            "Number_of_Games": "64921",
+            "KDA": "2.31"
+        }
+    },
+    {
+        "name": "Braum",
+        "stats": {
+            "Health": 610,
+            "Health_per_level": 112,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 1,
+            "Mana": 311,
+            "Mana_per_level": 45,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 3.2,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 3.5,
+            "Armor": 47,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "52.49%",
+            "Pick_Rate": "4.70%",
+            "Ban_Rate": "1.91%",
+            "Number_of_Games": "79969",
+            "KDA": "3.00"
+        }
+    },
+    {
+        "name": "Caitlyn",
+        "stats": {
+            "Health": 580,
+            "Health_per_level": 107,
+            "Health_Regen": 3.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 315,
+            "Mana_per_level": 40,
+            "Mana_Regen": 7.4,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 3.8,
+            "Attack_Speed": 0.68,
+            "Attack_Speed_per_level": 4,
+            "Armor": 27,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "50.79%",
+            "Pick_Rate": "21.07%",
+            "Ban_Rate": "32.20%",
+            "Number_of_Games": "449891",
+            "KDA": "2.29"
+        }
+    },
+    {
+        "name": "Camille",
+        "stats": {
+            "Health": 646,
+            "Health_per_level": 99,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.8,
+            "Mana": 339,
+            "Mana_per_level": 52,
+            "Mana_Regen": 8.15,
+            "Mana_Regen_per_level": 0.75,
+            "Attack_Damage": 68,
+            "Attack_Damage_per_level": 3.8,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 2.5,
+            "Armor": 35,
+            "Armor_per_level": 5,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "51.53%",
+            "Pick_Rate": "6.94%",
+            "Ban_Rate": "8.46%",
+            "Number_of_Games": "109330",
+            "KDA": "1.92"
+        }
+    },
+    {
+        "name": "Cassiopeia",
+        "stats": {
+            "Health": 630,
+            "Health_per_level": 104,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.5,
+            "Mana": 350,
+            "Mana_per_level": 60,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 53,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.65,
+            "Attack_Speed_per_level": 1.5,
+            "Armor": 18,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 328"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "52.77%",
+            "Pick_Rate": "1.73%",
+            "Ban_Rate": "1.72%",
+            "Number_of_Games": "31295",
+            "KDA": "2.18"
+        }
+    },
+    {
+        "name": "Cho'Gath",
+        "stats": {
+            "Health": 644,
+            "Health_per_level": 94,
+            "Health_Regen": 9,
+            "Health_Regen_per_level": 0.85,
+            "Mana": 270,
+            "Mana_per_level": 60,
+            "Mana_Regen": 7.2,
+            "Mana_Regen_per_level": 0.45,
+            "Attack_Damage": 69,
+            "Attack_Damage_per_level": 4.2,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.44,
+            "Armor": 38,
+            "Armor_per_level": 5,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "47.91%",
+            "Pick_Rate": "2.12%",
+            "Ban_Rate": "0.68%",
+            "Number_of_Games": "47729",
+            "KDA": "1.98"
+        }
+    },
+    {
+        "name": "Corki",
+        "stats": {
+            "Health": 588,
+            "Health_per_level": 105,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 350,
+            "Mana_per_level": 54,
+            "Mana_Regen": 7.4,
+            "Mana_Regen_per_level": 0.55,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 2.8,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 2.3,
+            "Armor": 28,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.51%",
+            "Pick_Rate": "9.05%",
+            "Ban_Rate": "21.25%",
+            "Number_of_Games": "153815",
+            "KDA": "2.48"
+        }
+    },
+    {
+        "name": "Darius",
+        "stats": {
+            "Health": 652,
+            "Health_per_level": 114,
+            "Health_Regen": 10,
+            "Health_Regen_per_level": 0.95,
+            "Mana": 263,
+            "Mana_per_level": 57.5,
+            "Mana_Regen": 6.6,
+            "Mana_Regen_per_level": 0.35,
+            "Attack_Damage": 64,
+            "Attack_Damage_per_level": 5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1,
+            "Armor": 39,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "49.75%",
+            "Pick_Rate": "7.83%",
+            "Ban_Rate": "19.06%",
+            "Number_of_Games": "166174",
+            "KDA": "1.84"
+        }
+    },
+    {
+        "name": "Diana",
+        "stats": {
+            "Health": 640,
+            "Health_per_level": 109,
+            "Health_Regen": 6.5,
+            "Health_Regen_per_level": 0.85,
+            "Mana": 375,
+            "Mana_per_level": 25,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 57,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.25,
+            "Armor": 31,
+            "Armor_per_level": 4.3,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "50.70%",
+            "Pick_Rate": "5.28%",
+            "Ban_Rate": "3.05%",
+            "Number_of_Games": "107239",
+            "KDA": "2.23"
+        }
+    },
+    {
+        "name": "Dr.",
+        "stats": {
+            "Health": 613,
+            "Health_per_level": 103,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.5,
+            "Attack_Damage": 61,
+            "Attack_Damage_per_level": 2.5,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 3.3,
+            "Armor": 32,
+            "Armor_per_level": 3.7,
+            "Magic_Resist": 29,
+            "Magic_Resist_per_level": 2.3,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Tank",
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "51.87%",
+            "Pick_Rate": "2.96%",
+            "Ban_Rate": "1.88%",
+            "Number_of_Games": "64161",
+            "KDA": "1.91"
+        }
+    },
+    {
+        "name": "Draven",
+        "stats": {
+            "Health": 675,
+            "Health_per_level": 104,
+            "Health_Regen": 3.75,
+            "Health_Regen_per_level": 0.7,
+            "Mana": 360.56,
+            "Mana_per_level": 39,
+            "Mana_Regen": 8.04,
+            "Mana_Regen_per_level": 0.65,
+            "Attack_Damage": 62,
+            "Attack_Damage_per_level": 3.61,
+            "Attack_Speed": 0.68,
+            "Attack_Speed_per_level": 2.7,
+            "Armor": 29,
+            "Armor_per_level": 4.5,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "48.17%",
+            "Pick_Rate": "6.56%",
+            "Ban_Rate": "27.01%",
+            "Number_of_Games": "117971",
+            "KDA": "2.08"
+        }
+    },
+    {
+        "name": "Ekko",
+        "stats": {
+            "Health": 655,
+            "Health_per_level": 99,
+            "Health_Regen": 9,
+            "Health_Regen_per_level": 0.9,
+            "Mana": 280,
+            "Mana_per_level": 70,
+            "Mana_Regen": 7,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 58,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.69,
+            "Attack_Speed_per_level": 3.3,
+            "Armor": 32,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "51.70%",
+            "Pick_Rate": "3.50%",
+            "Ban_Rate": "1.75%",
+            "Number_of_Games": "68688",
+            "KDA": "2.70"
+        }
+    },
+    {
+        "name": "Elise",
+        "stats": {
+            "Health": 650,
+            "Health_per_level": 109,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 324,
+            "Mana_per_level": 50,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.75,
+            "Armor": 30,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.49%",
+            "Pick_Rate": "1.84%",
+            "Ban_Rate": "0.77%",
+            "Number_of_Games": "30012",
+            "KDA": "2.66"
+        }
+    },
+    {
+        "name": "Evelynn",
+        "stats": {
+            "Health": 642,
+            "Health_per_level": 98,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 315,
+            "Mana_per_level": 42,
+            "Mana_Regen": 8.11,
+            "Mana_Regen_per_level": 0.6,
+            "Attack_Damage": 61,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2.1,
+            "Armor": 37,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32.1,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.00%",
+            "Pick_Rate": "2.91%",
+            "Ban_Rate": "5.21%",
+            "Number_of_Games": "58595",
+            "KDA": "2.68"
+        }
+    },
+    {
+        "name": "Ezreal",
+        "stats": {
+            "Health": 600,
+            "Health_per_level": 102,
+            "Health_Regen": 4,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 375,
+            "Mana_per_level": 70,
+            "Mana_Regen": 8.5,
+            "Mana_Regen_per_level": 1,
+            "Attack_Damage": 62,
+            "Attack_Damage_per_level": 2.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.5,
+            "Armor": 24,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "46.48%",
+            "Pick_Rate": "7.73%",
+            "Ban_Rate": "2.17%",
+            "Number_of_Games": "160542",
+            "KDA": "2.36"
+        }
+    },
+    {
+        "name": "Fiddlesticks",
+        "stats": {
+            "Health": 650.4,
+            "Health_per_level": 106,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 500,
+            "Mana_per_level": 28,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 55.36,
+            "Attack_Damage_per_level": 2.63,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.11,
+            "Armor": 34,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "49.20%",
+            "Pick_Rate": "2.47%",
+            "Ban_Rate": "1.64%",
+            "Number_of_Games": "49483",
+            "KDA": "2.59"
+        }
+    },
+    {
+        "name": "Fiora",
+        "stats": {
+            "Health": 620,
+            "Health_per_level": 99,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 300,
+            "Mana_per_level": 60,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 68,
+            "Attack_Damage_per_level": 3.3,
+            "Attack_Speed": 0.69,
+            "Attack_Speed_per_level": 3.2,
+            "Armor": 33,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "52.17%",
+            "Pick_Rate": "3.89%",
+            "Ban_Rate": "7.35%",
+            "Number_of_Games": "69342",
+            "KDA": "1.59"
+        }
+    },
+    {
+        "name": "Fizz",
+        "stats": {
+            "Health": 640,
+            "Health_per_level": 106,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.7,
+            "Mana": 317,
+            "Mana_per_level": 52,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 58,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 3.1,
+            "Armor": 22,
+            "Armor_per_level": 4.6,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Assassin",
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "49.82%",
+            "Pick_Rate": "3.42%",
+            "Ban_Rate": "6.86%",
+            "Number_of_Games": "77254",
+            "KDA": "2.47"
+        }
+    },
+    {
+        "name": "Galio",
+        "stats": {
+            "Health": 632,
+            "Health_per_level": 126,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.8,
+            "Mana": 500,
+            "Mana_per_level": 40,
+            "Mana_Regen": 9.5,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 59,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.5,
+            "Armor": 24,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "52.91%",
+            "Pick_Rate": "2.83%",
+            "Ban_Rate": "1.07%",
+            "Number_of_Games": "54267",
+            "KDA": "2.91"
+        }
+    },
+    {
+        "name": "Gangplank",
+        "stats": {
+            "Health": 600,
+            "Health_per_level": 114,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 280,
+            "Mana_per_level": 60,
+            "Mana_Regen": 7.5,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 64,
+            "Attack_Damage_per_level": 37,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 3.2,
+            "Armor": 31,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "49.92%",
+            "Pick_Rate": "2.42%",
+            "Ban_Rate": "1.27%",
+            "Number_of_Games": "48090",
+            "KDA": "2.11"
+        }
+    },
+    {
+        "name": "Garen",
+        "stats": {
+            "Health": 690,
+            "Health_per_level": 98,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.5,
+            "Attack_Damage": 69,
+            "Attack_Damage_per_level": 4.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 3.65,
+            "Armor": 38,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 1.55,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "51.10%",
+            "Pick_Rate": "6.61%",
+            "Ban_Rate": "3.45%",
+            "Number_of_Games": "145475",
+            "KDA": "1.96"
+        }
+    },
+    {
+        "name": "Gnar",
+        "stats": {
+            "Health": 540,
+            "Health_per_level": 79,
+            "Health_Regen": 4.5,
+            "Health_Regen_per_level": 1.25,
+            "Attack_Damage": 57,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 6,
+            "Armor": 32,
+            "Armor_per_level": 3.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "53.43%",
+            "Pick_Rate": "3.02%",
+            "Ban_Rate": "0.60%",
+            "Number_of_Games": "55208",
+            "KDA": "2.06"
+        }
+    },
+    {
+        "name": "Gragas",
+        "stats": {
+            "Health": 670,
+            "Health_per_level": 109,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.5,
+            "Mana": 400,
+            "Mana_per_level": 47,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 64,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.68,
+            "Attack_Speed_per_level": 2.05,
+            "Armor": 38,
+            "Armor_per_level": 4.8,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.41%",
+            "Pick_Rate": "3.37%",
+            "Ban_Rate": "2.98%",
+            "Number_of_Games": "54947",
+            "KDA": "2.22"
+        }
+    },
+    {
+        "name": "Graves",
+        "stats": {
+            "Health": 625,
+            "Health_per_level": 106,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.7,
+            "Mana": 325,
+            "Mana_per_level": 40,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 68,
+            "Attack_Damage_per_level": 4,
+            "Attack_Speed": 0.48,
+            "Attack_Speed_per_level": 2.6,
+            "Armor": 33,
+            "Armor_per_level": 4.6,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "49.22%",
+            "Pick_Rate": "6.09%",
+            "Ban_Rate": "2.59%",
+            "Number_of_Games": "103702",
+            "KDA": "2.51"
+        }
+    },
+    {
+        "name": "Hecarim",
+        "stats": {
+            "Health": 625,
+            "Health_per_level": 99,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 280,
+            "Mana_per_level": 40,
+            "Mana_Regen": 7,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 66,
+            "Attack_Damage_per_level": 3.7,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2.5,
+            "Armor": 32,
+            "Armor_per_level": 5.45,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "50.43%",
+            "Pick_Rate": "3.56%",
+            "Ban_Rate": "1.68%",
+            "Number_of_Games": "60064",
+            "KDA": "2.66"
+        }
+    },
+    {
+        "name": "Heimerdinger",
+        "stats": {
+            "Health": 558,
+            "Health_per_level": 101,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 385,
+            "Mana_per_level": 20,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 56,
+            "Attack_Damage_per_level": 2.7,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.36,
+            "Armor": 19,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "49.16%",
+            "Pick_Rate": "1.38%",
+            "Ban_Rate": "1.68%",
+            "Number_of_Games": "31856",
+            "KDA": "1.64"
+        }
+    },
+    {
+        "name": "Illaoi",
+        "stats": {
+            "Health": 656,
+            "Health_per_level": 109,
+            "Health_Regen": 9.5,
+            "Health_Regen_per_level": 0.8,
+            "Mana": 300,
+            "Mana_per_level": 50,
+            "Mana_Regen": 7.5,
+            "Mana_Regen_per_level": 0.75,
+            "Attack_Damage": 68,
+            "Attack_Damage_per_level": 5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.5,
+            "Armor": 35,
+            "Armor_per_level": 5,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 350"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "51.38%",
+            "Pick_Rate": "3.67%",
+            "Ban_Rate": "10.34%",
+            "Number_of_Games": "83125",
+            "KDA": "1.54"
+        }
+    },
+    {
+        "name": "Irelia",
+        "stats": {
+            "Health": 590,
+            "Health_per_level": 124,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.85,
+            "Mana": 350,
+            "Mana_per_level": 50,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 65,
+            "Attack_Damage_per_level": 4,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 2.5,
+            "Armor": 36,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "48.09%",
+            "Pick_Rate": "3.70%",
+            "Ban_Rate": "9.16%",
+            "Number_of_Games": "70245",
+            "KDA": "1.55"
+        }
+    },
+    {
+        "name": "Ivern",
+        "stats": {
+            "Health": 655,
+            "Health_per_level": 99,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.85,
+            "Mana": 450,
+            "Mana_per_level": 60,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.75,
+            "Attack_Damage": 50,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 3.4,
+            "Armor": 27,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.65%",
+            "Pick_Rate": "1.66%",
+            "Ban_Rate": "0.96%",
+            "Number_of_Games": "26656",
+            "KDA": "3.66"
+        }
+    },
+    {
+        "name": "Janna",
+        "stats": {
+            "Health": 570,
+            "Health_per_level": 84,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 350,
+            "Mana_per_level": 64,
+            "Mana_Regen": 11.5,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 52,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 3,
+            "Armor": 28,
+            "Armor_per_level": 5,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "51.60%",
+            "Pick_Rate": "4.74%",
+            "Ban_Rate": "3.13%",
+            "Number_of_Games": "72677",
+            "KDA": "3.23"
+        }
+    },
+    {
+        "name": "Jarvan",
+        "stats": {
+            "Health": 640,
+            "Health_per_level": 104,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.7,
+            "Mana": 300,
+            "Mana_per_level": 55,
+            "Mana_Regen": 6.5,
+            "Mana_Regen_per_level": 0.45,
+            "Attack_Damage": 64,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 2.5,
+            "Armor": 36,
+            "Armor_per_level": 4.8,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "52.00%",
+            "Pick_Rate": "4.07%",
+            "Ban_Rate": "1.01%",
+            "Number_of_Games": "76041",
+            "KDA": "3.34"
+        }
+    },
+    {
+        "name": "Jax",
+        "stats": {
+            "Health": 665,
+            "Health_per_level": 100,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 339,
+            "Mana_per_level": 52,
+            "Mana_Regen": 7.6,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 68,
+            "Attack_Damage_per_level": 4.25,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 3.4,
+            "Armor": 36,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 350"
+        },
+        "roles": [
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "50.50%",
+            "Pick_Rate": "5.56%",
+            "Ban_Rate": "12.15%",
+            "Number_of_Games": "98818",
+            "KDA": "1.73"
+        }
+    },
+    {
+        "name": "Jayce",
+        "stats": {
+            "Health": 590,
+            "Health_per_level": 109,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 375,
+            "Mana_per_level": 45,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 57,
+            "Attack_Damage_per_level": 4.25,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 3,
+            "Armor": 22,
+            "Armor_per_level": 5,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Marksman",
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "46.65%",
+            "Pick_Rate": "3.08%",
+            "Ban_Rate": "2.04%",
+            "Number_of_Games": "49804",
+            "KDA": "1.71"
+        }
+    },
+    {
+        "name": "Jhin",
+        "stats": {
+            "Health": 655,
+            "Health_per_level": 107,
+            "Health_Regen": 3.75,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 300,
+            "Mana_per_level": 50,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 59,
+            "Attack_Damage_per_level": 4.7,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 0,
+            "Armor": 24,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "52.05%",
+            "Pick_Rate": "20.38%",
+            "Ban_Rate": "8.43%",
+            "Number_of_Games": "410754",
+            "KDA": "2.92"
+        }
+    },
+    {
+        "name": "Jinx",
+        "stats": {
+            "Health": 630,
+            "Health_per_level": 105,
+            "Health_Regen": 3.75,
+            "Health_Regen_per_level": 0.5,
+            "Mana": 260,
+            "Mana_per_level": 50,
+            "Mana_Regen": 6.7,
+            "Mana_Regen_per_level": 1,
+            "Attack_Damage": 59,
+            "Attack_Damage_per_level": 3.15,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1,
+            "Armor": 26,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "52.85%",
+            "Pick_Rate": "17.09%",
+            "Ban_Rate": "8.96%",
+            "Number_of_Games": "335188",
+            "KDA": "2.52"
+        }
+    },
+    {
+        "name": "Kai'Sa",
+        "stats": {
+            "Health": 640,
+            "Health_per_level": 102,
+            "Health_Regen": 3.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 345,
+            "Mana_per_level": 40,
+            "Mana_Regen": 8.2,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 59,
+            "Attack_Damage_per_level": 2.6,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 1.8,
+            "Armor": 25,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.83%",
+            "Pick_Rate": "15.03%",
+            "Ban_Rate": "1.54%",
+            "Number_of_Games": "265113",
+            "KDA": "2.55"
+        }
+    },
+    {
+        "name": "Kalista",
+        "stats": {
+            "Health": 600,
+            "Health_per_level": 114,
+            "Health_Regen": 4,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 300,
+            "Mana_per_level": 45,
+            "Mana_Regen": 6.3,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 61,
+            "Attack_Damage_per_level": 3.25,
+            "Attack_Speed": 0.69,
+            "Attack_Speed_per_level": 4.5,
+            "Armor": 24,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "49.06%",
+            "Pick_Rate": "3.06%",
+            "Ban_Rate": "1.60%",
+            "Number_of_Games": "49231",
+            "KDA": "2.29"
+        }
+    },
+    {
+        "name": "Karma",
+        "stats": {
+            "Health": 604,
+            "Health_per_level": 109,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 374,
+            "Mana_per_level": 50,
+            "Mana_Regen": 13,
+            "Mana_Regen_per_level": 0.5,
+            "Attack_Damage": 51,
+            "Attack_Damage_per_level": 3.3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.3,
+            "Armor": 28,
+            "Armor_per_level": 5,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "48.73%",
+            "Pick_Rate": "4.66%",
+            "Ban_Rate": "1.84%",
+            "Number_of_Games": "90181",
+            "KDA": "2.55"
+        }
+    },
+    {
+        "name": "Karthus",
+        "stats": {
+            "Health": 620,
+            "Health_per_level": 110,
+            "Health_Regen": 6.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 467,
+            "Mana_per_level": 30.5,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 46,
+            "Attack_Damage_per_level": 3.25,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.11,
+            "Armor": 21,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.85%",
+            "Pick_Rate": "5.35%",
+            "Ban_Rate": "27.60%",
+            "Number_of_Games": "97963",
+            "KDA": "2.49"
+        }
+    },
+    {
+        "name": "Kassadin",
+        "stats": {
+            "Health": 646,
+            "Health_per_level": 119,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.5,
+            "Mana": 400,
+            "Mana_per_level": 87,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 59,
+            "Attack_Damage_per_level": 3.9,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 3.7,
+            "Armor": 19,
+            "Armor_per_level": 4,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.63%",
+            "Pick_Rate": "2.04%",
+            "Ban_Rate": "3.80%",
+            "Number_of_Games": "36990",
+            "KDA": "2.45"
+        }
+    },
+    {
+        "name": "Katarina",
+        "stats": {
+            "Health": 672,
+            "Health_per_level": 108,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.7,
+            "Attack_Damage": 58,
+            "Attack_Damage_per_level": 3.2,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 2.74,
+            "Armor": 28,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "49.76%",
+            "Pick_Rate": "5.94%",
+            "Ban_Rate": "7.12%",
+            "Number_of_Games": "120389",
+            "KDA": "2.21"
+        }
+    },
+    {
+        "name": "Kayle",
+        "stats": {
+            "Health": 670,
+            "Health_per_level": 92,
+            "Health_Regen": 5,
+            "Health_Regen_per_level": 0.5,
+            "Mana": 330,
+            "Mana_per_level": 50,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 50,
+            "Attack_Damage_per_level": 2.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.5,
+            "Armor": 26,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 22,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Mage",
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "52.08%",
+            "Pick_Rate": "3.52%",
+            "Ban_Rate": "1.43%",
+            "Number_of_Games": "74660",
+            "KDA": "1.95"
+        }
+    },
+    {
+        "name": "Kayn",
+        "stats": {
+            "Health": 655,
+            "Health_per_level": 109,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 410,
+            "Mana_per_level": 50,
+            "Mana_Regen": 11.5,
+            "Mana_Regen_per_level": 0.95,
+            "Attack_Damage": 68,
+            "Attack_Damage_per_level": 3.3,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2.7,
+            "Armor": 38,
+            "Armor_per_level": 4.5,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "50.16%",
+            "Pick_Rate": "7.03%",
+            "Ban_Rate": "5.68%",
+            "Number_of_Games": "159558",
+            "KDA": "2.37"
+        }
+    },
+    {
+        "name": "Kennen",
+        "stats": {
+            "Health": 611,
+            "Health_per_level": 98,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 200,
+            "Mana_per_level": 0,
+            "Mana_Regen": 50,
+            "Mana_Regen_per_level": 0,
+            "Attack_Damage": 48,
+            "Attack_Damage_per_level": 3.75,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 3.4,
+            "Armor": 29,
+            "Armor_per_level": 4.95,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "52.98%",
+            "Pick_Rate": "2.23%",
+            "Ban_Rate": "1.21%",
+            "Number_of_Games": "38021",
+            "KDA": "2.12"
+        }
+    },
+    {
+        "name": "Kha'Zix",
+        "stats": {
+            "Health": 643,
+            "Health_per_level": 99,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 327,
+            "Mana_per_level": 40,
+            "Mana_Regen": 7.59,
+            "Mana_Regen_per_level": 0.5,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 3.1,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2.7,
+            "Armor": 36,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 350"
+        },
+        "roles": [
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "51.44%",
+            "Pick_Rate": "10.14%",
+            "Ban_Rate": "6.80%",
+            "Number_of_Games": "183592",
+            "KDA": "2.65"
+        }
+    },
+    {
+        "name": "Kindred",
+        "stats": {
+            "Health": 610,
+            "Health_per_level": 104,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 300,
+            "Mana_per_level": 35,
+            "Mana_Regen": 7,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 65,
+            "Attack_Damage_per_level": 3.25,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 3.5,
+            "Armor": 29,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "50.68%",
+            "Pick_Rate": "4.28%",
+            "Ban_Rate": "4.17%",
+            "Number_of_Games": "73688",
+            "KDA": "2.32"
+        }
+    },
+    {
+        "name": "Kled",
+        "stats": {
+            "Health": 410,
+            "Health_per_level": 84,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.75,
+            "Attack_Damage": 65,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 3.5,
+            "Armor": 35,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 28,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "51.26%",
+            "Pick_Rate": "1.72%",
+            "Ban_Rate": "0.87%",
+            "Number_of_Games": "29239",
+            "KDA": "2.17"
+        }
+    },
+    {
+        "name": "Kog'Maw",
+        "stats": {
+            "Health": 635,
+            "Health_per_level": 99,
+            "Health_Regen": 3.75,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 325,
+            "Mana_per_level": 40,
+            "Mana_Regen": 8.75,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 61,
+            "Attack_Damage_per_level": 3.11,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2.65,
+            "Armor": 24,
+            "Armor_per_level": 4.45,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "53.35%",
+            "Pick_Rate": "2.61%",
+            "Ban_Rate": "0.81%",
+            "Number_of_Games": "52277",
+            "KDA": "2.24"
+        }
+    },
+    {
+        "name": "LeBlanc",
+        "stats": {
+            "Health": 598,
+            "Health_per_level": 111,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 400,
+            "Mana_per_level": 25,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 2.7,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.2,
+            "Armor": 22,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.26%",
+            "Pick_Rate": "5.75%",
+            "Ban_Rate": "9.52%",
+            "Number_of_Games": "98415",
+            "KDA": "2.89"
+        }
+    },
+    {
+        "name": "Lee",
+        "stats": {
+            "Health": 645,
+            "Health_per_level": 105,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.7,
+            "Mana": 200,
+            "Mana_per_level": 0,
+            "Mana_Regen": 50,
+            "Mana_Regen_per_level": 0,
+            "Attack_Damage": 66,
+            "Attack_Damage_per_level": 3.7,
+            "Attack_Speed": 0.65,
+            "Attack_Speed_per_level": 3,
+            "Armor": 36,
+            "Armor_per_level": 4.9,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "48.32%",
+            "Pick_Rate": "13.41%",
+            "Ban_Rate": "9.95%",
+            "Number_of_Games": "253389",
+            "KDA": "2.67"
+        }
+    },
+    {
+        "name": "Leona",
+        "stats": {
+            "Health": 646,
+            "Health_per_level": 101,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.85,
+            "Mana": 302,
+            "Mana_per_level": 40,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.9,
+            "Armor": 47,
+            "Armor_per_level": 4.8,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "52.36%",
+            "Pick_Rate": "6.84%",
+            "Ban_Rate": "4.82%",
+            "Number_of_Games": "143268",
+            "KDA": "2.61"
+        }
+    },
+    {
+        "name": "Lillia",
+        "stats": {
+            "Health": 605,
+            "Health_per_level": 105,
+            "Health_Regen": 2.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 410,
+            "Mana_per_level": 50,
+            "Mana_Regen": 11.5,
+            "Mana_Regen_per_level": 0.95,
+            "Attack_Damage": 61,
+            "Attack_Damage_per_level": 3.1,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.7,
+            "Armor": 22,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 1.55,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "53.49%",
+            "Pick_Rate": "7.06%",
+            "Ban_Rate": "8.35%",
+            "Number_of_Games": "132885",
+            "KDA": "2.91"
+        }
+    },
+    {
+        "name": "Lissandra",
+        "stats": {
+            "Health": 620,
+            "Health_per_level": 110,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 475,
+            "Mana_per_level": 30,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 2.7,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 1.36,
+            "Armor": 22,
+            "Armor_per_level": 4.9,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "49.62%",
+            "Pick_Rate": "2.27%",
+            "Ban_Rate": "1.06%",
+            "Number_of_Games": "44869",
+            "KDA": "2.43"
+        }
+    },
+    {
+        "name": "Lucian",
+        "stats": {
+            "Health": 641,
+            "Health_per_level": 100,
+            "Health_Regen": 3.75,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 320,
+            "Mana_per_level": 43,
+            "Mana_Regen": 7,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 2.9,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 3.3,
+            "Armor": 28,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "50.16%",
+            "Pick_Rate": "12.22%",
+            "Ban_Rate": "4.07%",
+            "Number_of_Games": "226076",
+            "KDA": "2.34"
+        }
+    },
+    {
+        "name": "Lulu",
+        "stats": {
+            "Health": 595,
+            "Health_per_level": 92,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 350,
+            "Mana_per_level": 55,
+            "Mana_Regen": 11,
+            "Mana_Regen_per_level": 0.6,
+            "Attack_Damage": 47,
+            "Attack_Damage_per_level": 2.6,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.25,
+            "Armor": 26,
+            "Armor_per_level": 4.9,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.95%",
+            "Pick_Rate": "9.05%",
+            "Ban_Rate": "5.54%",
+            "Number_of_Games": "161170",
+            "KDA": "3.32"
+        }
+    },
+    {
+        "name": "Lux",
+        "stats": {
+            "Health": 560,
+            "Health_per_level": 99,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 480,
+            "Mana_per_level": 23.5,
+            "Mana_Regen": 7,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 54,
+            "Attack_Damage_per_level": 3.3,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2,
+            "Armor": 19,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "50.79%",
+            "Pick_Rate": "10.73%",
+            "Ban_Rate": "11.24%",
+            "Number_of_Games": "255211",
+            "KDA": "2.52"
+        }
+    },
+    {
+        "name": "Malphite",
+        "stats": {
+            "Health": 644,
+            "Health_per_level": 104,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 280,
+            "Mana_per_level": 60,
+            "Mana_Regen": 7.3,
+            "Mana_Regen_per_level": 0.55,
+            "Attack_Damage": 62,
+            "Attack_Damage_per_level": 4,
+            "Attack_Speed": 0.74,
+            "Attack_Speed_per_level": 3.4,
+            "Armor": 37,
+            "Armor_per_level": 4.95,
+            "Magic_Resist": 28,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.22%",
+            "Pick_Rate": "4.78%",
+            "Ban_Rate": "9.47%",
+            "Number_of_Games": "95894",
+            "KDA": "2.47"
+        }
+    },
+    {
+        "name": "Malzahar",
+        "stats": {
+            "Health": 580,
+            "Health_per_level": 101,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 375,
+            "Mana_per_level": 27.5,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.5,
+            "Armor": 18,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "52.99%",
+            "Pick_Rate": "3.97%",
+            "Ban_Rate": "5.78%",
+            "Number_of_Games": "92996",
+            "KDA": "2.30"
+        }
+    },
+    {
+        "name": "Maokai",
+        "stats": {
+            "Health": 635,
+            "Health_per_level": 109,
+            "Health_Regen": 5,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 375,
+            "Mana_per_level": 43,
+            "Mana_Regen": 7.2,
+            "Mana_Regen_per_level": 0.6,
+            "Attack_Damage": 64,
+            "Attack_Damage_per_level": 3.3,
+            "Attack_Speed": 0.8,
+            "Attack_Speed_per_level": 2.125,
+            "Armor": 39,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "50.98%",
+            "Pick_Rate": "1.71%",
+            "Ban_Rate": "0.59%",
+            "Number_of_Games": "36989",
+            "KDA": "2.34"
+        }
+    },
+    {
+        "name": "Master",
+        "stats": {
+            "Health": 669,
+            "Health_per_level": 100,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 251,
+            "Mana_per_level": 42,
+            "Mana_Regen": 7.26,
+            "Mana_Regen_per_level": 0.45,
+            "Attack_Damage": 65,
+            "Attack_Damage_per_level": 2.2,
+            "Attack_Speed": 0.68,
+            "Attack_Speed_per_level": 2,
+            "Armor": 33,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 355"
+        },
+        "roles": [
+            "Assassin",
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "51.89%",
+            "Pick_Rate": "7.40%",
+            "Ban_Rate": "14.68%",
+            "Number_of_Games": "170599",
+            "KDA": "2.12"
+        }
+    },
+    {
+        "name": "Miss",
+        "stats": {
+            "Health": 640,
+            "Health_per_level": 103,
+            "Health_Regen": 3.75,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 300,
+            "Mana_per_level": 40,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 52,
+            "Attack_Damage_per_level": 2.4,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 3,
+            "Armor": 28,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.46%",
+            "Pick_Rate": "8.26%",
+            "Ban_Rate": "2.36%",
+            "Number_of_Games": "204820",
+            "KDA": "2.32"
+        }
+    },
+    {
+        "name": "Mordekaiser",
+        "stats": {
+            "Health": 645,
+            "Health_per_level": 104,
+            "Health_Regen": 5,
+            "Health_Regen_per_level": 0.75,
+            "Attack_Damage": 61,
+            "Attack_Damage_per_level": 4,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1,
+            "Armor": 37,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.53%",
+            "Pick_Rate": "7.19%",
+            "Ban_Rate": "15.03%",
+            "Number_of_Games": "167291",
+            "KDA": "1.84"
+        }
+    },
+    {
+        "name": "Morgana",
+        "stats": {
+            "Health": 630,
+            "Health_per_level": 104,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.4,
+            "Mana": 340,
+            "Mana_per_level": 60,
+            "Mana_Regen": 11,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 56,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.53,
+            "Armor": 25,
+            "Armor_per_level": 5,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "51.96%",
+            "Pick_Rate": "6.33%",
+            "Ban_Rate": "22.30%",
+            "Number_of_Games": "152502",
+            "KDA": "2.58"
+        }
+    },
+    {
+        "name": "Nami",
+        "stats": {
+            "Health": 560,
+            "Health_per_level": 88,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 365,
+            "Mana_per_level": 43,
+            "Mana_Regen": 11.5,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 51,
+            "Attack_Damage_per_level": 3.1,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 2.61,
+            "Armor": 29,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "52.00%",
+            "Pick_Rate": "11.49%",
+            "Ban_Rate": "1.19%",
+            "Number_of_Games": "198743",
+            "KDA": "3.41"
+        }
+    },
+    {
+        "name": "Nasus",
+        "stats": {
+            "Health": 631,
+            "Health_per_level": 104,
+            "Health_Regen": 9,
+            "Health_Regen_per_level": 0.9,
+            "Mana": 326,
+            "Mana_per_level": 62,
+            "Mana_Regen": 7.44,
+            "Mana_Regen_per_level": 0.5,
+            "Attack_Damage": 67,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 3.48,
+            "Armor": 34,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 350"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "50.63%",
+            "Pick_Rate": "6.08%",
+            "Ban_Rate": "4.24%",
+            "Number_of_Games": "128394",
+            "KDA": "1.84"
+        }
+    },
+    {
+        "name": "Nautilus",
+        "stats": {
+            "Health": 646,
+            "Health_per_level": 100,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 400,
+            "Mana_per_level": 47,
+            "Mana_Regen": 8.63,
+            "Mana_Regen_per_level": 0.5,
+            "Attack_Damage": 61,
+            "Attack_Damage_per_level": 3.3,
+            "Attack_Speed": 0.71,
+            "Attack_Speed_per_level": 1,
+            "Armor": 39,
+            "Armor_per_level": 4.95,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "50.15%",
+            "Pick_Rate": "12.48%",
+            "Ban_Rate": "17.19%",
+            "Number_of_Games": "222939",
+            "KDA": "2.45"
+        }
+    },
+    {
+        "name": "Neeko",
+        "stats": {
+            "Health": 610,
+            "Health_per_level": 104,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 450,
+            "Mana_per_level": 30,
+            "Mana_Regen": 7,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 48,
+            "Attack_Damage_per_level": 2.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 3.5,
+            "Armor": 21,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "49.49%",
+            "Pick_Rate": "2.39%",
+            "Ban_Rate": "1.29%",
+            "Number_of_Games": "50968",
+            "KDA": "2.21"
+        }
+    },
+    {
+        "name": "Nidalee",
+        "stats": {
+            "Health": 610,
+            "Health_per_level": 109,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 295,
+            "Mana_per_level": 45,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 58,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 3.22,
+            "Armor": 32,
+            "Armor_per_level": 5,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "49.71%",
+            "Pick_Rate": "6.08%",
+            "Ban_Rate": "4.96%",
+            "Number_of_Games": "90200",
+            "KDA": "2.92"
+        }
+    },
+    {
+        "name": "Nocturne",
+        "stats": {
+            "Health": 655,
+            "Health_per_level": 109,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 275,
+            "Mana_per_level": 35,
+            "Mana_Regen": 7,
+            "Mana_Regen_per_level": 0.45,
+            "Attack_Damage": 62,
+            "Attack_Damage_per_level": 2.6,
+            "Attack_Speed": 0.72,
+            "Attack_Speed_per_level": 2.7,
+            "Armor": 38,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 1.55,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "51.80%",
+            "Pick_Rate": "5.13%",
+            "Ban_Rate": "5.86%",
+            "Number_of_Games": "121006",
+            "KDA": "2.68"
+        }
+    },
+    {
+        "name": "Nunu",
+        "stats": {
+            "Health": 610,
+            "Health_per_level": 90,
+            "Health_Regen": 5,
+            "Health_Regen_per_level": 0.8,
+            "Mana": 280,
+            "Mana_per_level": 42,
+            "Mana_Regen": 7,
+            "Mana_Regen_per_level": 0.5,
+            "Attack_Damage": 61,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.25,
+            "Armor": 29,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.68%",
+            "Pick_Rate": "2.70%",
+            "Ban_Rate": "0.53%",
+            "Number_of_Games": "51507",
+            "KDA": "2.72"
+        }
+    },
+    {
+        "name": "Olaf",
+        "stats": {
+            "Health": 645,
+            "Health_per_level": 119,
+            "Health_Regen": 6.5,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 316,
+            "Mana_per_level": 50,
+            "Mana_Regen": 7.5,
+            "Mana_Regen_per_level": 0.6,
+            "Attack_Damage": 68,
+            "Attack_Damage_per_level": 4.7,
+            "Attack_Speed": 0.69,
+            "Attack_Speed_per_level": 2.7,
+            "Armor": 35,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 350"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "51.75%",
+            "Pick_Rate": "1.49%",
+            "Ban_Rate": "1.66%",
+            "Number_of_Games": "26487",
+            "KDA": "1.76"
+        }
+    },
+    {
+        "name": "Orianna",
+        "stats": {
+            "Health": 600,
+            "Health_per_level": 110,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 418,
+            "Mana_per_level": 25,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 40,
+            "Attack_Damage_per_level": 2.6,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 3.5,
+            "Armor": 20,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 26,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "50.68%",
+            "Pick_Rate": "3.55%",
+            "Ban_Rate": "0.68%",
+            "Number_of_Games": "62862",
+            "KDA": "2.77"
+        }
+    },
+    {
+        "name": "Ornn",
+        "stats": {
+            "Health": 660,
+            "Health_per_level": 109,
+            "Health_Regen": 9,
+            "Health_Regen_per_level": 0.9,
+            "Mana": 340.6,
+            "Mana_per_level": 65,
+            "Mana_Regen": 8.01,
+            "Mana_Regen_per_level": 0.6,
+            "Attack_Damage": 69,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2,
+            "Armor": 33,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "48.03%",
+            "Pick_Rate": "4.18%",
+            "Ban_Rate": "0.59%",
+            "Number_of_Games": "80695",
+            "KDA": "2.38"
+        }
+    },
+    {
+        "name": "Pantheon",
+        "stats": {
+            "Health": 650,
+            "Health_per_level": 109,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 317,
+            "Mana_per_level": 31,
+            "Mana_Regen": 7.35,
+            "Mana_Regen_per_level": 0.45,
+            "Attack_Damage": 64,
+            "Attack_Damage_per_level": 3.3,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 2.95,
+            "Armor": 40,
+            "Armor_per_level": 4.95,
+            "Magic_Resist": 28,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "51.46%",
+            "Pick_Rate": "2.96%",
+            "Ban_Rate": "2.53%",
+            "Number_of_Games": "57323",
+            "KDA": "2.07"
+        }
+    },
+    {
+        "name": "Poppy",
+        "stats": {
+            "Health": 610,
+            "Health_per_level": 104,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.8,
+            "Mana": 280,
+            "Mana_per_level": 40,
+            "Mana_Regen": 7,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 64,
+            "Attack_Damage_per_level": 4,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.5,
+            "Armor": 38,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Tank",
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "51.99%",
+            "Pick_Rate": "1.83%",
+            "Ban_Rate": "2.69%",
+            "Number_of_Games": "38362",
+            "KDA": "2.84"
+        }
+    },
+    {
+        "name": "Pyke",
+        "stats": {
+            "Health": 670,
+            "Health_per_level": 110,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.5,
+            "Mana": 415,
+            "Mana_per_level": 50,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 1,
+            "Attack_Damage": 62,
+            "Attack_Damage_per_level": 2,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2.5,
+            "Armor": 45,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Support",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "50.61%",
+            "Pick_Rate": "8.06%",
+            "Ban_Rate": "19.70%",
+            "Number_of_Games": "150656",
+            "KDA": "2.21"
+        }
+    },
+    {
+        "name": "Qiyana",
+        "stats": {
+            "Health": 590,
+            "Health_per_level": 124,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.9,
+            "Mana": 320,
+            "Mana_per_level": 50,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 66,
+            "Attack_Damage_per_level": 3.1,
+            "Attack_Speed": 0.69,
+            "Attack_Speed_per_level": 2.1,
+            "Armor": 28,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "48.13%",
+            "Pick_Rate": "1.97%",
+            "Ban_Rate": "0.71%",
+            "Number_of_Games": "34761",
+            "KDA": "2.11"
+        }
+    },
+    {
+        "name": "Quinn",
+        "stats": {
+            "Health": 565,
+            "Health_per_level": 107,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 269,
+            "Mana_per_level": 35,
+            "Mana_Regen": 7,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 59,
+            "Attack_Damage_per_level": 2.7,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 3.1,
+            "Armor": 28,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "50.73%",
+            "Pick_Rate": "1.36%",
+            "Ban_Rate": "0.83%",
+            "Number_of_Games": "27926",
+            "KDA": "1.88"
+        }
+    },
+    {
+        "name": "Rakan",
+        "stats": {
+            "Health": 610,
+            "Health_per_level": 99,
+            "Health_Regen": 5,
+            "Health_Regen_per_level": 0.5,
+            "Mana": 315,
+            "Mana_per_level": 50,
+            "Mana_Regen": 8.75,
+            "Mana_Regen_per_level": 0.5,
+            "Attack_Damage": 62,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 3,
+            "Armor": 30,
+            "Armor_per_level": 4.9,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "51.98%",
+            "Pick_Rate": "4.94%",
+            "Ban_Rate": "0.91%",
+            "Number_of_Games": "81713",
+            "KDA": "3.03"
+        }
+    },
+    {
+        "name": "Rammus",
+        "stats": {
+            "Health": 675,
+            "Health_per_level": 94,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 310,
+            "Mana_per_level": 33,
+            "Mana_Regen": 7.85,
+            "Mana_Regen_per_level": 0.5,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 2.75,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 2.215,
+            "Armor": 40,
+            "Armor_per_level": 5.5,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "54.42%",
+            "Pick_Rate": "2.41%",
+            "Ban_Rate": "6.63%",
+            "Number_of_Games": "53862",
+            "KDA": "3.22"
+        }
+    },
+    {
+        "name": "Rek'Sai",
+        "stats": {
+            "Health": 600,
+            "Health_per_level": 99,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.65,
+            "Attack_Damage": 58,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2,
+            "Armor": 36,
+            "Armor_per_level": 4.95,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "51.53%",
+            "Pick_Rate": "3.36%",
+            "Ban_Rate": "2.63%",
+            "Number_of_Games": "52402",
+            "KDA": "2.90"
+        }
+    },
+    {
+        "name": "Rell",
+        "stats": {
+            "Health": 610,
+            "Health_per_level": 104,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.85,
+            "Mana": 350,
+            "Mana_per_level": 45,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.35,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.5,
+            "Armor": 36,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.85,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "52.58%",
+            "Pick_Rate": "4.27%",
+            "Ban_Rate": "1.58%",
+            "Number_of_Games": "63040",
+            "KDA": "2.91"
+        }
+    },
+    {
+        "name": "Renekton",
+        "stats": {
+            "Health": 660,
+            "Health_per_level": 111,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.75,
+            "Attack_Damage": 69,
+            "Attack_Damage_per_level": 4.15,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2.75,
+            "Armor": 35,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 28,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "50.30%",
+            "Pick_Rate": "5.55%",
+            "Ban_Rate": "3.79%",
+            "Number_of_Games": "96655",
+            "KDA": "1.95"
+        }
+    },
+    {
+        "name": "Rengar",
+        "stats": {
+            "Health": 620,
+            "Health_per_level": 104,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.5,
+            "Attack_Damage": 68,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 3,
+            "Armor": 34,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Assassin",
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "47.42%",
+            "Pick_Rate": "3.04%",
+            "Ban_Rate": "5.73%",
+            "Number_of_Games": "53969",
+            "KDA": "2.15"
+        }
+    },
+    {
+        "name": "Riven",
+        "stats": {
+            "Health": 630,
+            "Health_per_level": 100,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.5,
+            "Attack_Damage": 64,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 3.5,
+            "Armor": 33,
+            "Armor_per_level": 4.4,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "49.84%",
+            "Pick_Rate": "4.20%",
+            "Ban_Rate": "1.54%",
+            "Number_of_Games": "75758",
+            "KDA": "1.91"
+        }
+    },
+    {
+        "name": "Rumble",
+        "stats": {
+            "Health": 625,
+            "Health_per_level": 105,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.6,
+            "Attack_Damage": 61,
+            "Attack_Damage_per_level": 3.2,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 1.85,
+            "Armor": 36,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 28,
+            "Magic_Resist_per_level": 1.55,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "49.80%",
+            "Pick_Rate": "2.91%",
+            "Ban_Rate": "3.10%",
+            "Number_of_Games": "46943",
+            "KDA": "2.07"
+        }
+    },
+    {
+        "name": "Ryze",
+        "stats": {
+            "Health": 645,
+            "Health_per_level": 124,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.8,
+            "Mana": 300,
+            "Mana_per_level": 70,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 1,
+            "Attack_Damage": 58,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.11,
+            "Armor": 22,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.76%",
+            "Pick_Rate": "1.50%",
+            "Ban_Rate": "0.20%",
+            "Number_of_Games": "30818",
+            "KDA": "2.25"
+        }
+    },
+    {
+        "name": "Samira",
+        "stats": {
+            "Health": 630,
+            "Health_per_level": 108,
+            "Health_Regen": 3.25,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 349,
+            "Mana_per_level": 38,
+            "Mana_Regen": 8.2,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 57,
+            "Attack_Damage_per_level": 3.3,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 3.3,
+            "Armor": 26,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "47.95%",
+            "Pick_Rate": "6.99%",
+            "Ban_Rate": "17.91%",
+            "Number_of_Games": "143950",
+            "KDA": "2.11"
+        }
+    },
+    {
+        "name": "Sejuani",
+        "stats": {
+            "Health": 630,
+            "Health_per_level": 114,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 1,
+            "Mana": 400,
+            "Mana_per_level": 40,
+            "Mana_Regen": 7,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 66,
+            "Attack_Damage_per_level": 4,
+            "Attack_Speed": 0.69,
+            "Attack_Speed_per_level": 3.5,
+            "Armor": 34,
+            "Armor_per_level": 5.45,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "49.53%",
+            "Pick_Rate": "2.97%",
+            "Ban_Rate": "0.35%",
+            "Number_of_Games": "62508",
+            "KDA": "3.23"
+        }
+    },
+    {
+        "name": "Senna",
+        "stats": {
+            "Health": 530,
+            "Health_per_level": 89,
+            "Health_Regen": 3.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 350,
+            "Mana_per_level": 45,
+            "Mana_Regen": 11.5,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 50,
+            "Attack_Damage_per_level": 0,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 4,
+            "Armor": 28,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Support",
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "49.51%",
+            "Pick_Rate": "5.73%",
+            "Ban_Rate": "2.34%",
+            "Number_of_Games": "120887",
+            "KDA": "2.61"
+        }
+    },
+    {
+        "name": "Seraphine",
+        "stats": {
+            "Health": 570,
+            "Health_per_level": 90,
+            "Health_Regen": 6.5,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 360,
+            "Mana_per_level": 50,
+            "Mana_Regen": 11.5,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2,
+            "Armor": 26,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.41%",
+            "Pick_Rate": "6.75%",
+            "Ban_Rate": "1.99%",
+            "Number_of_Games": "142768",
+            "KDA": "2.82"
+        }
+    },
+    {
+        "name": "Sett",
+        "stats": {
+            "Health": 670,
+            "Health_per_level": 114,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.5,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 4,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.75,
+            "Armor": 33,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 28,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "53.92%",
+            "Pick_Rate": "8.67%",
+            "Ban_Rate": "4.05%",
+            "Number_of_Games": "194608",
+            "KDA": "1.82"
+        }
+    },
+    {
+        "name": "Shaco",
+        "stats": {
+            "Health": 630,
+            "Health_per_level": 99,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 297,
+            "Mana_per_level": 40,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.45,
+            "Attack_Damage": 63,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.69,
+            "Attack_Speed_per_level": 3,
+            "Armor": 30,
+            "Armor_per_level": 4,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "49.77%",
+            "Pick_Rate": "5.93%",
+            "Ban_Rate": "21.06%",
+            "Number_of_Games": "128986",
+            "KDA": "2.77"
+        }
+    },
+    {
+        "name": "Shen",
+        "stats": {
+            "Health": 610,
+            "Health_per_level": 99,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 400,
+            "Mana_per_level": 0,
+            "Mana_Regen": 50,
+            "Mana_Regen_per_level": 0,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.75,
+            "Attack_Speed_per_level": 3,
+            "Armor": 34,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "49.95%",
+            "Pick_Rate": "3.00%",
+            "Ban_Rate": "0.49%",
+            "Number_of_Games": "57308",
+            "KDA": "2.95"
+        }
+    },
+    {
+        "name": "Shyvana",
+        "stats": {
+            "Health": 665,
+            "Health_per_level": 104,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.8,
+            "Attack_Damage": 66,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 2.5,
+            "Armor": 38,
+            "Armor_per_level": 4.55,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 350"
+        },
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "53.87%",
+            "Pick_Rate": "2.10%",
+            "Ban_Rate": "0.42%",
+            "Number_of_Games": "44137",
+            "KDA": "2.53"
+        }
+    },
+    {
+        "name": "Singed",
+        "stats": {
+            "Health": 650,
+            "Health_per_level": 99,
+            "Health_Regen": 9.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 330,
+            "Mana_per_level": 45,
+            "Mana_Regen": 7.5,
+            "Mana_Regen_per_level": 0.55,
+            "Attack_Damage": 63,
+            "Attack_Damage_per_level": 3.38,
+            "Attack_Speed": 0.61,
+            "Attack_Speed_per_level": 1.9,
+            "Armor": 34,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "51.80%",
+            "Pick_Rate": "1.41%",
+            "Ban_Rate": "0.38%",
+            "Number_of_Games": "26707",
+            "KDA": "1.92"
+        }
+    },
+    {
+        "name": "Sion",
+        "stats": {
+            "Health": 655,
+            "Health_per_level": 87,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.8,
+            "Mana": 400,
+            "Mana_per_level": 52,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.6,
+            "Attack_Damage": 68,
+            "Attack_Damage_per_level": 4,
+            "Attack_Speed": 0.68,
+            "Attack_Speed_per_level": 1.3,
+            "Armor": 32,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Tank",
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "50.67%",
+            "Pick_Rate": "2.87%",
+            "Ban_Rate": "0.97%",
+            "Number_of_Games": "60293",
+            "KDA": "1.59"
+        }
+    },
+    {
+        "name": "Sivir",
+        "stats": {
+            "Health": 600,
+            "Health_per_level": 104,
+            "Health_Regen": 3.25,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 340,
+            "Mana_per_level": 45,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 58,
+            "Attack_Damage_per_level": 2.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2,
+            "Armor": 26,
+            "Armor_per_level": 4.45,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "53.73%",
+            "Pick_Rate": "3.36%",
+            "Ban_Rate": "0.47%",
+            "Number_of_Games": "66788",
+            "KDA": "2.58"
+        }
+    },
+    {
+        "name": "Skarner",
+        "stats": {
+            "Health": 650,
+            "Health_per_level": 99,
+            "Health_Regen": 9,
+            "Health_Regen_per_level": 0.85,
+            "Mana": 320,
+            "Mana_per_level": 60,
+            "Mana_Regen": 7.2,
+            "Mana_Regen_per_level": 0.45,
+            "Attack_Damage": 65,
+            "Attack_Damage_per_level": 4.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.1,
+            "Armor": 38,
+            "Armor_per_level": 5,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Tank",
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "50.44%",
+            "Pick_Rate": "4.07%",
+            "Ban_Rate": "21.09%",
+            "Number_of_Games": "55162",
+            "KDA": "2.39"
+        }
+    },
+    {
+        "name": "Sona",
+        "stats": {
+            "Health": 550,
+            "Health_per_level": 91,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 340,
+            "Mana_per_level": 45,
+            "Mana_Regen": 11.5,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 49,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 2.3,
+            "Armor": 26,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "52.88%",
+            "Pick_Rate": "3.25%",
+            "Ban_Rate": "0.27%",
+            "Number_of_Games": "57341",
+            "KDA": "3.09"
+        }
+    },
+    {
+        "name": "Soraka",
+        "stats": {
+            "Health": 605,
+            "Health_per_level": 88,
+            "Health_Regen": 2.5,
+            "Health_Regen_per_level": 0.5,
+            "Mana": 425,
+            "Mana_per_level": 40,
+            "Mana_Regen": 11.5,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 50,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.14,
+            "Armor": 32,
+            "Armor_per_level": 5,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "51.86%",
+            "Pick_Rate": "4.90%",
+            "Ban_Rate": "1.68%",
+            "Number_of_Games": "96664",
+            "KDA": "2.97"
+        }
+    },
+    {
+        "name": "Swain",
+        "stats": {
+            "Health": 595,
+            "Health_per_level": 99,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 468,
+            "Mana_per_level": 28.5,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 58,
+            "Attack_Damage_per_level": 2.7,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.11,
+            "Armor": 26,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "45.05%",
+            "Pick_Rate": "2.15%",
+            "Ban_Rate": "1.43%",
+            "Number_of_Games": "54923",
+            "KDA": "2.23"
+        }
+    },
+    {
+        "name": "Sylas",
+        "stats": {
+            "Health": 575,
+            "Health_per_level": 129,
+            "Health_Regen": 9,
+            "Health_Regen_per_level": 0.9,
+            "Mana": 400,
+            "Mana_per_level": 70,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 61,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.65,
+            "Attack_Speed_per_level": 3.5,
+            "Armor": 27,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.55,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Mage",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "51.35%",
+            "Pick_Rate": "6.98%",
+            "Ban_Rate": "8.42%",
+            "Number_of_Games": "137346",
+            "KDA": "2.13"
+        }
+    },
+    {
+        "name": "Syndra",
+        "stats": {
+            "Health": 563,
+            "Health_per_level": 104,
+            "Health_Regen": 6.5,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 480,
+            "Mana_per_level": 40,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 54,
+            "Attack_Damage_per_level": 2.9,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2,
+            "Armor": 25,
+            "Armor_per_level": 4.6,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "51.73%",
+            "Pick_Rate": "5.13%",
+            "Ban_Rate": "2.26%",
+            "Number_of_Games": "89834",
+            "KDA": "2.35"
+        }
+    },
+    {
+        "name": "Tahm",
+        "stats": {
+            "Health": 640,
+            "Health_per_level": 103,
+            "Health_Regen": 6.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 325,
+            "Mana_per_level": 50,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 1,
+            "Attack_Damage": 56,
+            "Attack_Damage_per_level": 3.2,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 2.5,
+            "Armor": 42,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "49.97%",
+            "Pick_Rate": "2.50%",
+            "Ban_Rate": "1.38%",
+            "Number_of_Games": "55838",
+            "KDA": "2.50"
+        }
+    },
+    {
+        "name": "Taliyah",
+        "stats": {
+            "Health": 550,
+            "Health_per_level": 104,
+            "Health_Regen": 6.5,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 470,
+            "Mana_per_level": 30,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 58,
+            "Attack_Damage_per_level": 3.3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.36,
+            "Armor": 18,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "52.05%",
+            "Pick_Rate": "4.67%",
+            "Ban_Rate": "8.85%",
+            "Number_of_Games": "64242",
+            "KDA": "2.60"
+        }
+    },
+    {
+        "name": "Talon",
+        "stats": {
+            "Health": 658,
+            "Health_per_level": 109,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 400,
+            "Mana_per_level": 37,
+            "Mana_Regen": 7.6,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 68,
+            "Attack_Damage_per_level": 3.1,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.9,
+            "Armor": 30,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 39,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "47.83%",
+            "Pick_Rate": "1.96%",
+            "Ban_Rate": "0.81%",
+            "Number_of_Games": "35144",
+            "KDA": "2.14"
+        }
+    },
+    {
+        "name": "Taric",
+        "stats": {
+            "Health": 645,
+            "Health_per_level": 99,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.5,
+            "Mana": 300,
+            "Mana_per_level": 60,
+            "Mana_Regen": 8.5,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2,
+            "Armor": 40,
+            "Armor_per_level": 4.6,
+            "Magic_Resist": 28,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Support",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "51.99%",
+            "Pick_Rate": "1.64%",
+            "Ban_Rate": "0.32%",
+            "Number_of_Games": "28868",
+            "KDA": "2.83"
+        }
+    },
+    {
+        "name": "Teemo",
+        "stats": {
+            "Health": 598,
+            "Health_per_level": 104,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 334,
+            "Mana_per_level": 25,
+            "Mana_Regen": 9.6,
+            "Mana_Regen_per_level": 0.45,
+            "Attack_Damage": 54,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.69,
+            "Attack_Speed_per_level": 3.38,
+            "Armor": 24,
+            "Armor_per_level": 4.95,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "52.12%",
+            "Pick_Rate": "3.79%",
+            "Ban_Rate": "7.17%",
+            "Number_of_Games": "91360",
+            "KDA": "1.88"
+        }
+    },
+    {
+        "name": "Thresh",
+        "stats": {
+            "Health": 600,
+            "Health_per_level": 120,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 274,
+            "Mana_per_level": 44,
+            "Mana_Regen": 6,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 56,
+            "Attack_Damage_per_level": 2.2,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 3.5,
+            "Armor": 28,
+            "Armor_per_level": 0,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Support",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "50.62%",
+            "Pick_Rate": "12.42%",
+            "Ban_Rate": "4.54%",
+            "Number_of_Games": "238576",
+            "KDA": "2.71"
+        }
+    },
+    {
+        "name": "Tristana",
+        "stats": {
+            "Health": 640,
+            "Health_per_level": 102,
+            "Health_Regen": 4,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 250,
+            "Mana_per_level": 32,
+            "Mana_Regen": 7.2,
+            "Mana_Regen_per_level": 0.45,
+            "Attack_Damage": 59,
+            "Attack_Damage_per_level": 3.7,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 1.5,
+            "Armor": 30,
+            "Armor_per_level": 4.5,
+            "Magic_Resist": 28,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "51.04%",
+            "Pick_Rate": "5.28%",
+            "Ban_Rate": "5.56%",
+            "Number_of_Games": "76217",
+            "KDA": "2.06"
+        }
+    },
+    {
+        "name": "Trundle",
+        "stats": {
+            "Health": 686,
+            "Health_per_level": 110,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 340,
+            "Mana_per_level": 45,
+            "Mana_Regen": 7.5,
+            "Mana_Regen_per_level": 0.6,
+            "Attack_Damage": 68,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2.9,
+            "Armor": 37,
+            "Armor_per_level": 3.9,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 350"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "50.29%",
+            "Pick_Rate": "1.99%",
+            "Ban_Rate": "2.11%",
+            "Number_of_Games": "47771",
+            "KDA": "1.40"
+        }
+    },
+    {
+        "name": "Tryndamere",
+        "stats": {
+            "Health": 696,
+            "Health_per_level": 108,
+            "Health_Regen": 8.5,
+            "Health_Regen_per_level": 0.9,
+            "Attack_Damage": 66,
+            "Attack_Damage_per_level": 4,
+            "Attack_Speed": 0.67,
+            "Attack_Speed_per_level": 2.9,
+            "Armor": 33,
+            "Armor_per_level": 4.3,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "51.54%",
+            "Pick_Rate": "5.49%",
+            "Ban_Rate": "7.60%",
+            "Number_of_Games": "110924",
+            "KDA": "1.68"
+        }
+    },
+    {
+        "name": "Twisted",
+        "stats": {
+            "Health": 604,
+            "Health_per_level": 108,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 333,
+            "Mana_per_level": 39,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 52,
+            "Attack_Damage_per_level": 3.3,
+            "Attack_Speed": 0.65,
+            "Attack_Speed_per_level": 3.22,
+            "Armor": 21,
+            "Armor_per_level": 4.35,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Mage",
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "51.69%",
+            "Pick_Rate": "4.97%",
+            "Ban_Rate": "3.25%",
+            "Number_of_Games": "86903",
+            "KDA": "2.39"
+        }
+    },
+    {
+        "name": "Twitch",
+        "stats": {
+            "Health": 682,
+            "Health_per_level": 100,
+            "Health_Regen": 3.75,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 300,
+            "Mana_per_level": 40,
+            "Mana_Regen": 7.26,
+            "Mana_Regen_per_level": 0.7,
+            "Attack_Damage": 59,
+            "Attack_Damage_per_level": 3.11,
+            "Attack_Speed": 0.68,
+            "Attack_Speed_per_level": 3.38,
+            "Armor": 27,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "51.14%",
+            "Pick_Rate": "5.40%",
+            "Ban_Rate": "5.40%",
+            "Number_of_Games": "102170",
+            "KDA": "2.37"
+        }
+    },
+    {
+        "name": "Udyr",
+        "stats": {
+            "Health": 664,
+            "Health_per_level": 92,
+            "Health_Regen": 6,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 271,
+            "Mana_per_level": 50,
+            "Mana_Regen": 7.5,
+            "Mana_Regen_per_level": 0.45,
+            "Attack_Damage": 62,
+            "Attack_Damage_per_level": 4,
+            "Attack_Speed": 0.65,
+            "Attack_Speed_per_level": 3,
+            "Armor": 31,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 350"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "53.58%",
+            "Pick_Rate": "2.38%",
+            "Ban_Rate": "1.21%",
+            "Number_of_Games": "46486",
+            "KDA": "2.74"
+        }
+    },
+    {
+        "name": "Urgot",
+        "stats": {
+            "Health": 655,
+            "Health_per_level": 102,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.7,
+            "Mana": 340,
+            "Mana_per_level": 45,
+            "Mana_Regen": 7.25,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 63,
+            "Attack_Damage_per_level": 4,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 3.75,
+            "Armor": 36,
+            "Armor_per_level": 5.45,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "50.42%",
+            "Pick_Rate": "2.85%",
+            "Ban_Rate": "1.29%",
+            "Number_of_Games": "57763",
+            "KDA": "1.94"
+        }
+    },
+    {
+        "name": "Varus",
+        "stats": {
+            "Health": 600,
+            "Health_per_level": 105,
+            "Health_Regen": 3.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 360,
+            "Mana_per_level": 40,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 62,
+            "Attack_Damage_per_level": 3.4,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 4,
+            "Armor": 27,
+            "Armor_per_level": 4.6,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "49.42%",
+            "Pick_Rate": "6.84%",
+            "Ban_Rate": "1.40%",
+            "Number_of_Games": "120674",
+            "KDA": "2.48"
+        }
+    },
+    {
+        "name": "Vayne",
+        "stats": {
+            "Health": 550,
+            "Health_per_level": 103,
+            "Health_Regen": 3.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 231.8,
+            "Mana_per_level": 35,
+            "Mana_Regen": 6.97,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 2.36,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 3.3,
+            "Armor": 23,
+            "Armor_per_level": 4.6,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "49.41%",
+            "Pick_Rate": "4.75%",
+            "Ban_Rate": "9.28%",
+            "Number_of_Games": "109489",
+            "KDA": "2.10"
+        }
+    },
+    {
+        "name": "Veigar",
+        "stats": {
+            "Health": 550,
+            "Health_per_level": 108,
+            "Health_Regen": 6.5,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 490,
+            "Mana_per_level": 26,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 52,
+            "Attack_Damage_per_level": 2.7,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.24,
+            "Armor": 18,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "52.86%",
+            "Pick_Rate": "4.96%",
+            "Ban_Rate": "3.22%",
+            "Number_of_Games": "117859",
+            "KDA": "2.33"
+        }
+    },
+    {
+        "name": "Vel'Koz",
+        "stats": {
+            "Health": 590,
+            "Health_per_level": 102,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 469,
+            "Mana_per_level": 21,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 3.1416,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.36,
+            "Armor": 22,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "49.10%",
+            "Pick_Rate": "2.23%",
+            "Ban_Rate": "0.53%",
+            "Number_of_Games": "48892",
+            "KDA": "2.27"
+        }
+    },
+    {
+        "name": "Vi",
+        "stats": {
+            "Health": 655,
+            "Health_per_level": 99,
+            "Health_Regen": 10,
+            "Health_Regen_per_level": 1,
+            "Mana": 295,
+            "Mana_per_level": 65,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.65,
+            "Attack_Damage": 63,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 2,
+            "Armor": 30,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "50.32%",
+            "Pick_Rate": "4.27%",
+            "Ban_Rate": "1.64%",
+            "Number_of_Games": "90553",
+            "KDA": "2.47"
+        }
+    },
+    {
+        "name": "Viktor",
+        "stats": {
+            "Health": 600,
+            "Health_per_level": 104,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 405,
+            "Mana_per_level": 45,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 53,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 2.11,
+            "Armor": 23,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "52.96%",
+            "Pick_Rate": "3.49%",
+            "Ban_Rate": "0.92%",
+            "Number_of_Games": "63680",
+            "KDA": "2.32"
+        }
+    },
+    {
+        "name": "Vladimir",
+        "stats": {
+            "Health": 607,
+            "Health_per_level": 110,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.6,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 2,
+            "Armor": 27,
+            "Armor_per_level": 4.5,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Mage",
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "47.15%",
+            "Pick_Rate": "2.18%",
+            "Ban_Rate": "3.20%",
+            "Number_of_Games": "44861",
+            "KDA": "2.23"
+        }
+    },
+    {
+        "name": "Volibear",
+        "stats": {
+            "Health": 650,
+            "Health_per_level": 104,
+            "Health_Regen": 9,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 350,
+            "Mana_per_level": 70,
+            "Mana_Regen": 6.25,
+            "Mana_Regen_per_level": 0.5,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2,
+            "Armor": 31,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "50.76%",
+            "Pick_Rate": "5.13%",
+            "Ban_Rate": "4.42%",
+            "Number_of_Games": "105373",
+            "KDA": "1.66"
+        }
+    },
+    {
+        "name": "Warwick",
+        "stats": {
+            "Health": 620,
+            "Health_per_level": 99,
+            "Health_Regen": 4,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 280,
+            "Mana_per_level": 35,
+            "Mana_Regen": 7.47,
+            "Mana_Regen_per_level": 0.58,
+            "Attack_Damage": 65,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.64,
+            "Attack_Speed_per_level": 2.3,
+            "Armor": 33,
+            "Armor_per_level": 4.4,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "53.75%",
+            "Pick_Rate": "4.69%",
+            "Ban_Rate": "4.47%",
+            "Number_of_Games": "115765",
+            "KDA": "2.34"
+        }
+    },
+    {
+        "name": "Wukong",
+        "stats": {
+            "Health": 610,
+            "Health_per_level": 99,
+            "Health_Regen": 3.5,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 300,
+            "Mana_per_level": 65,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 66,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.69,
+            "Attack_Speed_per_level": 3,
+            "Armor": 31,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 28,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "49.95%",
+            "Pick_Rate": "1.50%",
+            "Ban_Rate": "0.38%",
+            "Number_of_Games": "32736",
+            "KDA": "2.60"
+        }
+    },
+    {
+        "name": "Xayah",
+        "stats": {
+            "Health": 630,
+            "Health_per_level": 107,
+            "Health_Regen": 3.25,
+            "Health_Regen_per_level": 0.75,
+            "Mana": 340,
+            "Mana_per_level": 40,
+            "Mana_Regen": 8.25,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 3.5,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 3.9,
+            "Armor": 25,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Marksman"
+        ],
+        "data": {
+            "Win_Rate": "49.91%",
+            "Pick_Rate": "3.17%",
+            "Ban_Rate": "0.53%",
+            "Number_of_Games": "63381",
+            "KDA": "2.32"
+        }
+    },
+    {
+        "name": "Xerath",
+        "stats": {
+            "Health": 596,
+            "Health_per_level": 106,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 400,
+            "Mana_per_level": 22,
+            "Mana_Regen": 6.85,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 55,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1.36,
+            "Armor": 22,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "49.76%",
+            "Pick_Rate": "3.44%",
+            "Ban_Rate": "5.02%",
+            "Number_of_Games": "74027",
+            "KDA": "2.64"
+        }
+    },
+    {
+        "name": "Xin",
+        "stats": {
+            "Health": 640,
+            "Health_per_level": 106,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.7,
+            "Mana": 274,
+            "Mana_per_level": 55,
+            "Mana_Regen": 7.26,
+            "Mana_Regen_per_level": 0.45,
+            "Attack_Damage": 63,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.65,
+            "Attack_Speed_per_level": 3.5,
+            "Armor": 35,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "53.49%",
+            "Pick_Rate": "4.85%",
+            "Ban_Rate": "1.29%",
+            "Number_of_Games": "94554",
+            "KDA": "2.50"
+        }
+    },
+    {
+        "name": "Yasuo",
+        "stats": {
+            "Health": 590,
+            "Health_per_level": 101,
+            "Health_Regen": 6.5,
+            "Health_Regen_per_level": 0.9,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.7,
+            "Attack_Speed_per_level": 3.5,
+            "Armor": 30,
+            "Armor_per_level": 4.6,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "48.89%",
+            "Pick_Rate": "9.45%",
+            "Ban_Rate": "20.05%",
+            "Number_of_Games": "205641",
+            "KDA": "1.73"
+        }
+    },
+    {
+        "name": "Yone",
+        "stats": {
+            "Health": 620,
+            "Health_per_level": 105,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.75,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 2,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 3.5,
+            "Armor": 30,
+            "Armor_per_level": 4.6,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "48.49%",
+            "Pick_Rate": "5.56%",
+            "Ban_Rate": "8.21%",
+            "Number_of_Games": "120818",
+            "KDA": "1.77"
+        }
+    },
+    {
+        "name": "Yorick",
+        "stats": {
+            "Health": 650,
+            "Health_per_level": 114,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.8,
+            "Mana": 300,
+            "Mana_per_level": 60,
+            "Mana_Regen": 7.5,
+            "Mana_Regen_per_level": 0.75,
+            "Attack_Damage": 62,
+            "Attack_Damage_per_level": 5,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2,
+            "Armor": 39,
+            "Armor_per_level": 5.2,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "data": {
+            "Win_Rate": "51.52%",
+            "Pick_Rate": "3.29%",
+            "Ban_Rate": "4.30%",
+            "Number_of_Games": "82757",
+            "KDA": "1.74"
+        }
+    },
+    {
+        "name": "Yuumi",
+        "stats": {
+            "Health": 500,
+            "Health_per_level": 69,
+            "Health_Regen": 5,
+            "Health_Regen_per_level": 0.55,
+            "Mana": 440,
+            "Mana_per_level": 45,
+            "Mana_Regen": 10,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 49,
+            "Attack_Damage_per_level": 3.1,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 1,
+            "Armor": 25,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 25,
+            "Magic_Resist_per_level": 1.1,
+            "Movement_Speed": "Movement Speed: 330"
+        },
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "46.55%",
+            "Pick_Rate": "4.65%",
+            "Ban_Rate": "4.65%",
+            "Number_of_Games": "93545",
+            "KDA": "4.37"
+        }
+    },
+    {
+        "name": "Zac",
+        "stats": {
+            "Health": 685,
+            "Health_per_level": 109,
+            "Health_Regen": 8,
+            "Health_Regen_per_level": 0.5,
+            "Attack_Damage": 60,
+            "Attack_Damage_per_level": 3.4,
+            "Attack_Speed": 0.74,
+            "Attack_Speed_per_level": 1.6,
+            "Armor": 33,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 32,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Tank",
+            "Fighter"
+        ],
+        "data": {
+            "Win_Rate": "52.57%",
+            "Pick_Rate": "3.35%",
+            "Ban_Rate": "2.89%",
+            "Number_of_Games": "62878",
+            "KDA": "3.50"
+        }
+    },
+    {
+        "name": "Zed",
+        "stats": {
+            "Health": 654,
+            "Health_per_level": 99,
+            "Health_Regen": 7,
+            "Health_Regen_per_level": 0.65,
+            "Mana": 200,
+            "Mana_per_level": 0,
+            "Mana_Regen": 50,
+            "Mana_Regen_per_level": 0,
+            "Attack_Damage": 63,
+            "Attack_Damage_per_level": 3.4,
+            "Attack_Speed": 0.65,
+            "Attack_Speed_per_level": 3.3,
+            "Armor": 32,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 29,
+            "Magic_Resist_per_level": 2.05,
+            "Movement_Speed": "Movement Speed: 345"
+        },
+        "roles": [
+            "Assassin"
+        ],
+        "data": {
+            "Win_Rate": "48.11%",
+            "Pick_Rate": "7.54%",
+            "Ban_Rate": "21.79%",
+            "Number_of_Games": "153698",
+            "KDA": "2.27"
+        }
+    },
+    {
+        "name": "Ziggs",
+        "stats": {
+            "Health": 606,
+            "Health_per_level": 106,
+            "Health_Regen": 6.5,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 480,
+            "Mana_per_level": 23.5,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 54,
+            "Attack_Damage_per_level": 3.1,
+            "Attack_Speed": 0.66,
+            "Attack_Speed_per_level": 2,
+            "Armor": 22,
+            "Armor_per_level": 4.5,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 325"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "52.25%",
+            "Pick_Rate": "1.33%",
+            "Ban_Rate": "0.43%",
+            "Number_of_Games": "29294",
+            "KDA": "2.57"
+        }
+    },
+    {
+        "name": "Zilean",
+        "stats": {
+            "Health": 574,
+            "Health_per_level": 96,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.5,
+            "Mana": 452,
+            "Mana_per_level": 50,
+            "Mana_Regen": 11.34,
+            "Mana_Regen_per_level": 0.8,
+            "Attack_Damage": 52,
+            "Attack_Damage_per_level": 3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.13,
+            "Armor": 24,
+            "Armor_per_level": 5,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 335"
+        },
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "50.20%",
+            "Pick_Rate": "1.74%",
+            "Ban_Rate": "0.53%",
+            "Number_of_Games": "32244",
+            "KDA": "3.30"
+        }
+    },
+    {
+        "name": "Zoe",
+        "stats": {
+            "Health": 630,
+            "Health_per_level": 106,
+            "Health_Regen": 7.5,
+            "Health_Regen_per_level": 0.6,
+            "Mana": 425,
+            "Mana_per_level": 25,
+            "Mana_Regen": 8,
+            "Mana_Regen_per_level": 0.65,
+            "Attack_Damage": 58,
+            "Attack_Damage_per_level": 3.3,
+            "Attack_Speed": 0.63,
+            "Attack_Speed_per_level": 2.5,
+            "Armor": 21,
+            "Armor_per_level": 4.7,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Mage"
+        ],
+        "data": {
+            "Win_Rate": "51.65%",
+            "Pick_Rate": "2.64%",
+            "Ban_Rate": "1.41%",
+            "Number_of_Games": "48123",
+            "KDA": "2.79"
+        }
+    },
+    {
+        "name": "Zyra",
+        "stats": {
+            "Health": 574,
+            "Health_per_level": 93,
+            "Health_Regen": 5.5,
+            "Health_Regen_per_level": 0.5,
+            "Mana": 418,
+            "Mana_per_level": 25,
+            "Mana_Regen": 13,
+            "Mana_Regen_per_level": 0.4,
+            "Attack_Damage": 53,
+            "Attack_Damage_per_level": 3.2,
+            "Attack_Speed": 0.68,
+            "Attack_Speed_per_level": 2.11,
+            "Armor": 29,
+            "Armor_per_level": 4.2,
+            "Magic_Resist": 30,
+            "Magic_Resist_per_level": 1.3,
+            "Movement_Speed": "Movement Speed: 340"
+        },
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "data": {
+            "Win_Rate": "52.26%",
+            "Pick_Rate": "4.17%",
+            "Ban_Rate": "4.12%",
+            "Number_of_Games": "94548",
+            "KDA": "2.31"
+        }
+    }
+]
