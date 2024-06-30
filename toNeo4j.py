@@ -1,4 +1,6 @@
 import json
+import re
+
 from neo4j import GraphDatabase
 
 uri = "bolt://localhost:7687"
@@ -29,6 +31,29 @@ def create_role_and_relationship(tx, role, champions):
         """
         tx.run(query, role=role, champion=champion)
 
+def create_player(tx, name):
+    query = """
+    MERGE (p:Player {name: $name})
+    """
+    tx.run(query, name=name)
+
+
+def create_game(tx, player, champion, kda):
+    match = re.match(r"(\d+)\s*/\s*(\d+)\s*/\s*(\d+)", kda)
+    if not match:
+        raise ValueError("Invalid KDA format. Expected format: 'kills / deaths / assists'")
+
+    kills, deaths, assists = match.groups()
+
+    query = """
+    MATCH (c:Champion {name: $champion})
+    MERGE (p:Player {name: $player})
+    MERGE (g:Game {kills: $kills, deaths: $deaths, assists: $assists})
+    MERGE (p)-[:PLAYED]->(g)
+    MERGE (g)-[:PLAYED_BY]->(c)
+    """
+    tx.run(query, player=player, champion=champion, kills=int(kills), deaths=int(deaths), assists=int(assists))
+
 with driver.session() as session:
     session.execute_write(delete_all_nodes)
 
@@ -49,5 +74,20 @@ with driver.session() as session:
         for role, champions in role_data.items():
             with driver.session() as session:
                 session.execute_write(create_role_and_relationship, role, champions)
+
+    with open('game_data.json', 'r') as json_file:
+        game_data_list = json.load(json_file)
+
+        for champ in game_data_list:
+            name = champ["name"]
+            print(name)
+            for game in champ["games"]:
+
+                player = game['player']  # Moved inside the loop
+                kda = game['kda']  # Moved inside the loop
+
+                with driver.session() as session:
+                    session.execute_write(create_player, player)
+                    session.execute_write(create_game, player, name, kda)
 
 driver.close()

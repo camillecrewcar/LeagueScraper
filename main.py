@@ -2,46 +2,14 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-base_url = "https://probuilds.net/champions"
-site_url = "https://probuilds.net"
 
 def get_html(url):
-    response = requests.get(url)
-    return response.text
-
-def get_champion_links(base_url, site_url):
-    html = get_html(base_url)
-    soup = BeautifulSoup(html, 'html.parser')
-    champions = {}
-
-    # Adjust the selector based on the actual HTML structure
-    champion_elements = soup.find_all('a', class_='item-link')
-
-    for element in champion_elements:
-        link = site_url + element['href']
-        name = element.find('span', class_='title type-subtitle--bold').text.strip()
-        champions[name] = link
-
-    return champions
-
-champion_links = get_champion_links(base_url, site_url)
-
-# Print the dictionary of champion names and links
-for champion, link in champion_links.items():
-    print(f"{champion}: {link}")
-
-# Save to JSON file
-with open('champion_links.json', 'w') as json_file:
-    json.dump(champion_links, json_file, indent=4)
-
-
-
-def get_html(url):
-    response = requests.get(url)
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    response = requests.get(url, headers=headers)
     response.raise_for_status()  # Raises an error for bad status codes
     return response.text
-
-
 def get_champion_role(url):
     html = get_html(url)
     soup = BeautifulSoup(html, 'html.parser')
@@ -50,8 +18,6 @@ def get_champion_role(url):
         roles = meta_details.text.strip()
         return roles.split(' / ')
     return []
-
-
 def parse_champion_data(html):
     soup = BeautifulSoup(html, 'html.parser')
     data = {}
@@ -98,13 +64,9 @@ def parse_champion_data(html):
 
     data['stats'] = stats
     return data
-
-
 def parse_champion_statistics(html):
     soup = BeautifulSoup(html, 'html.parser')
     all_elems = soup.findAll('span', {'class': '_dxv0e1'})
-
-    win_rate = pick_rate = ban_rate = num_games = kda = "N/A"
 
     for elem in all_elems:
         strong_elem = elem.find('strong')
@@ -117,16 +79,39 @@ def parse_champion_statistics(html):
                 ban_rate = elem.find_next('span').text.strip()
             elif strong_elem.text.strip() == 'Games:':
                 num_games = elem.find_next('span').text.strip()
-            elif strong_elem.text.strip() == 'KDA:':
-                kda = elem.find_next('span').text.strip()
 
     return {
         "Win_Rate": win_rate,
         "Pick_Rate": pick_rate,
         "Ban_Rate": ban_rate,
-        "Number_of_Games": num_games,
-        "KDA": kda,
+        "Number_of_Games": num_games
     }
+
+def get_champion_links(base_url, site_url):
+    html = get_html(base_url)
+    soup = BeautifulSoup(html, 'html.parser')
+    champions = {}
+    champion_elements = soup.find_all('a', class_='champion-link')
+    for element in champion_elements:
+        link = site_url + element['href']
+        name = element.find('div', class_='champion-name').text.strip()
+        champions[name] = link
+    return champions
+def parse_game_data(html):
+    soup = BeautifulSoup(html, 'html.parser')
+    games = []
+    game_elements = soup.find_all('div', class_='match-summary-container')
+
+    for game in game_elements:
+        game_data = {}
+        player_name = game.find('a', class_='name').text.strip()
+        kda = game.find('div', class_='kda').text.strip()
+
+        game_data['player'] = player_name
+        game_data['kda'] = kda
+        games.append(game_data)
+
+    return games
 
 
 champions = [
@@ -182,7 +167,7 @@ for i, champ in enumerate(champions):
         html = get_html(url)
         champion_data = parse_champion_data(html)
 
-        # Get champion roles using championsForLolSite
+        # Get champion roles
         base_url = "https://www.leagueoflegends.com/en-gb/champions/"
         champ_url = f"{base_url}{championsForLolSite[i].lower()}/"
         roles = get_champion_role(champ_url)
@@ -199,9 +184,20 @@ for i, champ in enumerate(champions):
         stats_html = get_html(stats_url)
         champion_data['data'] = parse_champion_statistics(stats_html)
 
+        # Get champion game data from probuilds
+        probuilds_url = f"https://www.probuildstats.com/champion/{champ.lower()}"
+        probuilds_html = get_html(probuilds_url)
+        games_data = parse_game_data(probuilds_html)
+        champion_data['games'] = games_data
+
         champion_data_list.append(champion_data)
     except Exception as e:
         print(f"Failed to process champion {champ}: {e}")
+
+
+# Write game data to JSON file
+with open('game_data.json', 'w') as json_file:
+    json.dump(champion_data_list, json_file, indent=4)
 
 # Write champion data to JSON file
 with open('champion_data.json', 'w') as json_file:
@@ -211,5 +207,3 @@ with open('champion_data.json', 'w') as json_file:
 with open('role_data.json', 'w') as json_file:
     json.dump(role_dict, json_file, indent=4)
 
-print("Champion data has been saved to champion_data.json")
-print("Role data has been saved to role_data.json")
